@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Divyanshu2910
+- 👋 Hi, I’m Divyanshu Kukreja
 - 👀 I’m App developer 
 - 🌱 I’m currently learning flutter
 - 📫 divyanshukukreja1@gmail.com
