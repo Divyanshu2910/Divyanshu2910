@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Divyanshu Kukreja
 - 👀 I’m App developer 
 - 🌱 I’m currently learning flutter
-- 📫 divyanshukukreja1@gmail.com
+- 📫 you can reach me - divyanshukukreja1@gmail.com
 
 <!---
 Divyanshu2910/Divyanshu2910 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
